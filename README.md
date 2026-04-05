@@ -17,5 +17,5 @@
 - 📊 Dashboard UI
 
 ## 📫 Contact
-- Email: your email
-- LinkedIn: your link
+- Email: bharateswapnil96@gmail.com
+- LinkedIn:http://www.linkedin.com/in/swapnil-bharate-b84408291
